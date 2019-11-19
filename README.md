@@ -28,8 +28,8 @@ Modify daestro_dir into your own maestro dataset path in the file.
 
 1. Modify the data_dirs and load_dir, save_dir.<br/>
 data_dirs: the directories to load preprocessed data files<br/>
-load_dir: the directory to load model<br/>
-save_dir: the directory to save model
+load_dir: the directory to load a model<br/>
+save_dir: the directory to save a model
 
 2. Run Music-GPT-2.ipynb
 you can increase the batch size by changing batch_size variable.
