@@ -14,6 +14,7 @@ The difference with the GPT-2 source is that this used only decoder and relative
 4. tensorboardX
 5. tqdm
 6. python-midi
+https://github.com/louisabraham/python3-midi
 
 ## Preprocessing
 1. Download and extract Maestro dataset V.2.0.0 from the following link
