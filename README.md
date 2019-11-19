@@ -43,6 +43,7 @@ You should check load_dir, and variable N means the sequence length of what you 
 ![Training Loss Graph](pics/loss_graph.png)
 
 ## Samples
+Three samples created Music-GPT-2
 https://soundcloud.com/hutenheum/sets/three-musical-moments-by-gpt-2
  
 
