@@ -20,7 +20,7 @@ https://github.com/louisabraham/python3-midi
 1. Download and extract Maestro dataset V.2.0.0 from the following link
 https://magenta.tensorflow.org/datasets/maestro
 
-2. run preprocessing.ipynb
+2. Run preprocessing.ipynb
 Modify daestro_dir into your own maestro dataset path in the file.
 
 ## Training
@@ -30,7 +30,7 @@ data_dirs: the directories to load preprocessed data files
 load_dir: the directory to load model
 save_dir: the directory to save model
 
-2. run Music-GPT-2.ipynb
+2. Run Music-GPT-2.ipynb
 you can increase the batch size by changing batch_size variable.
 
 ## Inference
