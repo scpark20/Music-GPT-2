@@ -21,7 +21,7 @@ https://github.com/louisabraham/python3-midi
 1. Download and extract Maestro dataset V.2.0.0 from the following link
 https://magenta.tensorflow.org/datasets/maestro
 
-2. Run preprocessing.ipynb
+2. Run preprocessing.ipynb<br/>
 Modify daestro_dir into your own maestro dataset path in the file.
 
 ## Training
