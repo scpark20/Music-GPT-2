@@ -3,7 +3,7 @@
 
 This project is an implementation of Music Transformer(https://arxiv.org/abs/1809.04281) using GPT-2.
 
-The GPT-2 source code was used in the link below.<br/>
+The GPT-2 source code was used from the link below.<br/>
 https://github.com/openai/gpt-2
 
 The difference with the GPT-2 source is that this used only decoder and relative position embedding.
