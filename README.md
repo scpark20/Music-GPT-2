@@ -39,6 +39,7 @@ you can increase the batch size by changing batch_size variable.
 Run 'Output MIDI file' cell in Music-GPT-2.ipynb to make a new MIDI file.
 You should check load_dir, and variable N means the sequence length of what you want to make. It should be greater than the hyper-parameter n_time.
 
-
+## Loss
+![Training Loss Graph](pics/loss_graph.png)
  
 
