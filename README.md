@@ -1,7 +1,8 @@
 # Music-GPT-2
 ### Music GPT-2 Implementation with Relative Positional Embedding
 
-This project is an implementation of Music Transformer using GPT-2.
+This project is an implementation of Music Transformer(https://arxiv.org/abs/1809.04281) using GPT-2.
+
 The GPT-2 source code was created using the link below.
 https://github.com/openai/gpt-2
 
