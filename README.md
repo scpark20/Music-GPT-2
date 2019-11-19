@@ -7,7 +7,7 @@ https://github.com/openai/gpt-2
 
 The difference with the GPT-2 source is that this used only decoder and relative position embedding.
 
-## Pre-requistites
+## Pre-requisites
 1. tensorflow 1.14
 2. numpy
 3. librosa
