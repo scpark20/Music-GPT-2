@@ -26,7 +26,7 @@ Modify daestro_dir into your own maestro dataset path in the file.
 
 ## Training
 
-1. Check the data_dirs and load_dir, save_dir.<br/>
+1. Modify the data_dirs and load_dir, save_dir.<br/>
 data_dirs: the directories to load preprocessed data files<br/>
 load_dir: the directory to load model<br/>
 save_dir: the directory to save model
@@ -37,7 +37,7 @@ you can increase the batch size by changing batch_size variable.
 ## Inference
 
 Run 'Output MIDI file' cell in Music-GPT-2.ipynb to make a new MIDI file.
-You should check load_dir, and variable N means the sequence length of what you want to make. It should be greater than the hyper-parameter n_time.
+You should input load_dir, and variable N means the sequence length of what you want to make. It should be greater than the hyper-parameter n_time.
 
 ## Loss
 ![Training Loss Graph](pics/loss_graph.png)
