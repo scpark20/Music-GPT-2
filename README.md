@@ -3,7 +3,7 @@
 
 This project is an implementation of Music Transformer(https://arxiv.org/abs/1809.04281) using GPT-2.
 
-The GPT-2 source code was created using the link below.
+The GPT-2 source code was created using the link below.<br/>
 https://github.com/openai/gpt-2
 
 The difference with the GPT-2 source is that this used only decoder and relative position embedding.
@@ -26,9 +26,9 @@ Modify daestro_dir into your own maestro dataset path in the file.
 
 ## Training
 
-1. Check the data_dirs and load_dir, save_dir.
-data_dirs: the directories to load preprocessed data files
-load_dir: the directory to load model
+1. Check the data_dirs and load_dir, save_dir.<br/>
+data_dirs: the directories to load preprocessed data files<br/>
+load_dir: the directory to load model<br/>
 save_dir: the directory to save model
 
 2. Run Music-GPT-2.ipynb
